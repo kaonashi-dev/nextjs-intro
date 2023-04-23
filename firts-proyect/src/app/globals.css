@@ -10,4 +10,10 @@
 
 body {
   color: rgb(var(--foreground-rgb));
+  background: #f9fafb;
+  max-width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
